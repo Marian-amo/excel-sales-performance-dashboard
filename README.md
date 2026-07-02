@@ -1,6 +1,5 @@
 # 📊 RetailHub Kenya Sales Performance Dashboard
 
-![Dashboard](images/dashboard.png)
 
 ## Project Overview
 Interactive Excel dashboard built to analyze retail sales performance using KPI cards, PivotTables, PivotCharts and slicers.
